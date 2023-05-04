@@ -1,0 +1,6 @@
+22342|Portatil i3|3600|Lenovo|2016|Nuevo|6/10
+3242|Portatil i7|6600|HP|2019|Nuevo|8/10
+2432|Portatil i9|7800|HP|2020|Nuevo|10/10
+22422|Portatil intel celeron|1200|HP|2010|Usado|1/10
+10023|Portatil Flexible i7|5000|HP|2018|Nuevo|6/10
+12990|Portatil XPS|900|Dell|2017|Dañado|4/10

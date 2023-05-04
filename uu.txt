@@ -1,0 +1,7 @@
+gus|718829|Gustavo|Garcia|garcia@gmail.com|viernes, 28 de agosto de 1998|Bolivia|a|C:\Users\fabry\OneDrive\Escritorio\DATOS\fotos\user-profile-computer-icons-user-interface-mystique.png
+jose|703882|Jose|Sanchez|fabry21@gmail.com|sábado, 10 de junio de 2000|Argentina|2020|C:\Users\fabry\OneDrive\Escritorio\DATOS\fotos\images.jpg
+carla|743243|Andrea|Benitez|benicarla@gmail.com|viernes, 11 de junio de 1999|Uruguay|carla11|C:\Users\fabry\OneDrive\Escritorio\DATOS\fotos\fotos-de-personas-2.jpg
+fabry21|3412|fabricio|Sanchez|Fabry21@gmail.com|miércoles, 13 de enero de 1999|Bolivia|2121|C:\Users\fabry\OneDrive\Escritorio\DATOS\fotos\user-profile-computer-icons-user-interface-mystique.png
+ant21|423442|Antonio|Fernandez|fer@gmail.com|miércoles, 29 de junio de 1994|Mexico|21|C:\Users\fabry\OneDrive\Escritorio\DATOS\fotos\cfc1d8b69811d4bacb1377e39d5a74c9.jpg
+ra21|34243|raquel|aguilera|raquel@gmail.com|jueves, 28 de enero de 1999|Bolivia|21|C:\Users\fabry\OneDrive\Escritorio\DATOS\fotos\486c58a3a6b8f921a77c77db349ecdb2.jpg
+fabry|43243|fabry|sanc|fabry@gmail.com|miércoles, 13 de enero de 1999|argentina|2121|C:\Users\fabry\OneDrive\Escritorio\DATOS\fotos\3db675aabad7a572e55d22740dfea57b.jpg

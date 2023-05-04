@@ -1,0 +1,6 @@
+2343|Transformers|21|Dreamworks|2007|Nuevo|9/10
+2343|Spiderman Homecoming|46|Marvel|2017|Usado|10/10
+2343|Avengers|90|Marvel|2019|Nuevo|10/10
+2343|The Joker|100|DC comica|2019|Nuevo|10/10
+2343|Deadpool|56|FOX y Marvel|2014|Nuevo|7/10
+2343|Frozen 2|100|Disney|2020|Usado|6/10

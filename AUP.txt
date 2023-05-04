@@ -1,0 +1,6 @@
+230|Q3 2.0|35000|Audi|2020|Nuevo|9/10
+3242|TT RS Coupe|70000|Audi|2010|Nuevo|6/10
+20012|Sonic 1.6|20000|Chevrolet|2017|Usado|8/10
+22432|Captiva|25000|Chevrolet|2020|Nuevo|9/10
+23456|QQ light|25000|Chery|2019|Nuevo|7/10
+9003|Xdrive|90000|BMW|2010|dañado|1/10

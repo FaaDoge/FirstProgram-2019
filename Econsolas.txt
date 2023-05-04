@@ -1,0 +1,7 @@
+12129|Switch|1500|Nintendo|2019|Dañado|6/10
+44355|PS4 Slim|3200|Sony|2019|Nuevo|8/10
+3438|PS4 Pro|4000|Sony|2018|Usado|6/10
+112|Xbox One|3500|Microsoft|2019|Nuevo|7/10
+345|PS3 FAT|2500|Sony|2008|Nuevo|9/10
+5883|GAMEBOY|100|Nintendo|1989|Usado|9/10
+42342|Nintendo 3DS|1700|Nintendo|2010|Usado|Sin criticas

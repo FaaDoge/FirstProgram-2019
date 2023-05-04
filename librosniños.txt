@@ -1,0 +1,3 @@
+10003|Dinosaurios|50|Sarah Anderachiio|2018|Dañado|3/10
+34322|Un viaje al reves|156|Martina De Antiochia|2018|Nuevo|10/10
+4311|El dino|120|Monica Antelo|2016|Usado|Sin criticas

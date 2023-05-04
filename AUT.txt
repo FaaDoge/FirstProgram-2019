@@ -1,0 +1,6 @@
+9112|HJ 2500|35000|BMW|2012|dañado|3/10
+54643|Thp Sport|60000|Peugeot|2016|Usado|7/10
+95493|Onix|90000|Chevrolet|2018|Nuevo|9/10
+12245|Golf 1.6|70000|Volkswagen|2016|Usado|6/10
+13424|Pack top|90000|BMW|2018|Nuevo|7/10
+22403|Xtreme|100000|KIA|2012|Nuevo|9/10

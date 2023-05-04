@@ -1,0 +1,7 @@
+4351|Sofa|3000|Log|2016|Usado|8/10
+2432|Sofa ingles|6000|BATAVIA|2018|Usado|5/10
+4002|Sofa Modular|11000|MDF Italia|20120|Nuevo|8/10
+2342|Cama pequeña|1500|BATAVIA|2015|Usado|4/10
+8623|Cama Matrimonial|5500|Winston|2015|Usado|4/10
+3242|Cuna|1700|BATAVIA|2015|Nuevo|9/10
+432|Cama|2000|Industrial|2017|Nuevo|Sin criticas

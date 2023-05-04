@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{43CA985B-A7E9-4C97-8B81-754095D53B24}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PROYECTO_FINAL</RootNamespace>
+    <AssemblyName>PROYECTO FINAL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrador.cs" />
+    <Compile Include="CARRITO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CARRITO.Designer.cs">
+      <DependentUpon>CARRITO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPRA AUTOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPRA AUTOS.Designer.cs">
+      <DependentUpon>COMPRA AUTOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPRA DOMESTICOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPRA DOMESTICOS.Designer.cs">
+      <DependentUpon>COMPRA DOMESTICOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPRA ELECTRONICOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPRA ELECTRONICOS.Designer.cs">
+      <DependentUpon>COMPRA ELECTRONICOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPRA LIBROS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPRA LIBROS.Designer.cs">
+      <DependentUpon>COMPRA LIBROS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPRA PELIS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPRA PELIS.Designer.cs">
+      <DependentUpon>COMPRA PELIS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONTROL USUARIOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONTROL USUARIOS.Designer.cs">
+      <DependentUpon>CONTROL USUARIOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DATOS COMPRAS.cs" />
+    <Compile Include="DATOS.cs" />
+    <Compile Include="GG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GG.Designer.cs">
+      <DependentUpon>GG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LISTA DE DESEOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LISTA DE DESEOS.Designer.cs">
+      <DependentUpon>LISTA DE DESEOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENU PRINCIPAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENU PRINCIPAL.Designer.cs">
+      <DependentUpon>MENU PRINCIPAL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MIS PRODUCTOS.cs" />
+    <Compile Include="PAYPAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAYPAL.Designer.cs">
+      <DependentUpon>PAYPAL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="REGISTRO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REGISTRO.Designer.cs">
+      <DependentUpon>REGISTRO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USUARIOS.cs" />
+    <Compile Include="VENTAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VENTAS.Designer.cs">
+      <DependentUpon>VENTAS.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CARRITO.resx">
+      <DependentUpon>CARRITO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPRA AUTOS.resx">
+      <DependentUpon>COMPRA AUTOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPRA DOMESTICOS.resx">
+      <DependentUpon>COMPRA DOMESTICOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPRA ELECTRONICOS.resx">
+      <DependentUpon>COMPRA ELECTRONICOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPRA LIBROS.resx">
+      <DependentUpon>COMPRA LIBROS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPRA PELIS.resx">
+      <DependentUpon>COMPRA PELIS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONTROL USUARIOS.resx">
+      <DependentUpon>CONTROL USUARIOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GG.es-ES.resx">
+      <DependentUpon>GG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GG.resx">
+      <DependentUpon>GG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LISTA DE DESEOS.resx">
+      <DependentUpon>LISTA DE DESEOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENU PRINCIPAL.resx">
+      <DependentUpon>MENU PRINCIPAL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAYPAL.resx">
+      <DependentUpon>PAYPAL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="REGISTRO.resx">
+      <DependentUpon>REGISTRO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VENTAS.resx">
+      <DependentUpon>VENTAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\142-1429785_customer-vector-online-shopping-online-shop-icon-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\142-1429785_customer-vector-online-shopping-online-shop-icon-png1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGOF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGOFELE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOMESTICOS.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOMESTICOS1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOMESFI.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura4.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\T.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TF.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TRA.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENT.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VES.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vender.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LIBROS.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-profile-computer-icons-user-interface-mystique.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pay.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paypal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,6 @@
+2311|Galaxy j7|1200|Samsung|2018|Nuevo|7/10
+2424|Galaxy s10|4000|Samsung|2019|Usado|6/10
+1200|Mate 10|2500|Huawei|2017|Nuevo|9/10
+12005|P30|6500|Huawei|2019|Usado|4/10
+2904|iPhone 11|8200|Apple|2020|Nuevo|10/10
+1111|Galaxy j2|700|Samsung|2018|Nuevo|5/10

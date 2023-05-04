@@ -1,0 +1,7 @@
+243|Aire acondicionado|3546|Ceotec|2015|Nuevo|9/10
+2003|Grill Barbacoa|500|Siemens|2006|Usado|4/10
+392|Cafetera Integrable|3324|Whirlpool|2019|Nuevo|9/10
+2434|Cocina|3000|Beko|2017|Nuevo|7/10
+1354|Estufa gas butano|600|Orbegozo|2015|Usado|5/10
+2834|Microondas serie 9|1000|LG|2017|Usado|7/10
+12341|Microondas|1200|Chafa|2010|Usado|Sin criticas

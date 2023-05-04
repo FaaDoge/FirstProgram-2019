@@ -1,0 +1,7 @@
+2313|ATLAS|300|Marcelo Justiniano|2007|Nuevo|6/10
+3243|Breve historia del tiempo|1500|Stephen Hawking|1988|Usado|9/10
+4645|Homo deus|200|Yuval Noah Harari|2015|Nuevo|7/10
+4323|El gran diseño|600|Stephen Hawking|2010|Nuevo|9/10
+11245|El futuro de nuestra mente|900|Michio Kaku|2014|Nuevo|9/10
+9004|Somos nuestro cerebro|500|Dick Swaab|2014|Usado|4/10
+313|El cuerpo|212|Joselito|2010|Usado|3/10
